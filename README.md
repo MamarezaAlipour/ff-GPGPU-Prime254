@@ -1,5 +1,5 @@
 # ff-GPGPU-Prime254
-Accelerating Computation on 254-bit Prime Field
+Finite Field and Accelerating Computation on 254-bit Prime Field
 
 ## Motivation
 
