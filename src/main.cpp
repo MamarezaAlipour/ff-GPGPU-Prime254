@@ -154,7 +154,7 @@ int main(int argc, char **argv) {
   }
 
 #else // do nothing useful !
-  std::cout << "Check " << std::endl;
+  std::cout << "Check https://github.com/PariKhaleghi/ff-GPGPU-Prime254/blob/master/src/Makefile#L8-19" << std::endl;
 #endif
 
   return 0;
