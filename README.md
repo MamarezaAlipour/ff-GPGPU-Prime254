@@ -7,7 +7,7 @@ In recent times I got opportunity to work with people who're exploring Zero Know
 
 SYCL is a modern abstraction for writing data parallel programs, which caught my attention due to its ability of interacting with devices of heterogeneous nature, starting from CPU, GPU to FPGA, with multiple backends support such that OpenCL, CUDA, HIP etc..
 
-In this repository, I keep following implementations, where elements are chosen from 254-bit prime field [`F(21888242871839275222246405745257275088548364400416034343698204186575808495617)`]
+In this repository, I keep following implementations, where elements are chosen from 254-bit prime field [`F(21888242871839275222246405745257275088548364400416034343698204186575808495617)`](https://github.com/PariKhaleghi/ff-GPGPU-Prime254/blob/master/include/ntt.hpp#L7-L11)
 
 - (Inverse) Number Theoretic Transform
 
